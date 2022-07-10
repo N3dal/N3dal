@@ -3,7 +3,8 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm Nedal Abdullah  Electronic-Communication engineering student from 🇱🇾
+
+I'm Nedal Abdullah Electronic-Communication engineering student from 🇱🇾
 passionate about Computer-Science and Computers in General (Hardware) and (Software).
 
 
