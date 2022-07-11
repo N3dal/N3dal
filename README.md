@@ -4,7 +4,7 @@
 
 Welcome to my page!
 
-I'm **Nedal Abdullah** Electronic-Communication engineering student from 🇱🇾
+I'm <span style="color:blue">**Nedal Abdullah** </span>Electronic-Communication engineering student from 🇱🇾
 passionate about Computer-Science and Computers in General (Hardware) and (Software).
 
 - 👯 I’m looking to collaborate on Open-Source Projects.
