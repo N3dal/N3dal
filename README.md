@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-Welcome to my page!
+<p align="center>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=50" />
+</p>
 
 I'm **Nedal Abudllah** Electronic-Communication engineering student from 🇱🇾
 passionate about Computer-Science and Computers in General (Hardware) and (Software).
