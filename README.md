@@ -1,9 +1,9 @@
-<!-- <a target="blank"><img align="left" src="./patric1.gif" /></a> -->
-<a target="blank"><img align="left" src="./moon1.gif" /></a>
+<a target="blank"><img align="left" src="./patric1.gif" /></a>
+<!-- <a target="blank"><img align="left" src="./moon1.gif" /></a> -->
 
 ### Hi there 👋
 
-<p align="right">
+<p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
