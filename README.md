@@ -1,5 +1,4 @@
 <!-- <a target="blank"><img align="left" src="./patric1.gif" /></a> -->
-<!-- <a target="blank"><img align="left" src="./moon1.gif" /></a> -->
 
 ### Hi there 👋
 
@@ -22,7 +21,7 @@ passionate about Computer-Science and Computers in General (Hardware) and (Softw
 
 
 ## Where to find me
-
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/N3dal)
 
 
 
