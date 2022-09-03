@@ -28,20 +28,27 @@ class Tools:
         "Bash-Script",
         "matlab"
     )
+
     PROGRAMMING_LANGUAGES = (
         "C",
         "C++",
         
     )
+
     MARKUP_LANGUAGES = (
         "HTML",
         "Markdown"
     )
+
+    OTHER_LANGUAGES = (
+        "json",
+    )
+    
     EDITORS = (
         "VsCode",
         "Sublime"
     )
-    
+
 
 ```
 
