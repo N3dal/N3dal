@@ -20,7 +20,30 @@ passionate about Computer-Science and Computers in General (Hardware) and (Softw
 
 
 ## Tools 
+```python
+class Tools:
 
+    SCRIPTING_LANGUAGE = (
+        "Python",
+        "Bash-Script",
+        "matlab"
+    )
+    PROGRAMMING_LANGUAGES = (
+        "C",
+        "C++",
+        
+    )
+    MARKUP_LANGUAGES = (
+        "HTML",
+        "Markdown"
+    )
+    EDITORS = (
+        "VsCode",
+        "Sublime"
+    )
+    
+
+```
 
 ## Where to find me
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/N3dal)
