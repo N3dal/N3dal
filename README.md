@@ -31,7 +31,7 @@ class Tools:
 
     PROGRAMMING_LANGUAGES = (
         "C",
-        "C++",
+        "C++"
         
     )
 
@@ -43,10 +43,18 @@ class Tools:
     OTHER_LANGUAGES = (
         "json",
     )
-    
+
     EDITORS = (
         "VsCode",
         "Sublime"
+    )
+
+    PLATFORMS = (
+        "GNU/LINUX",
+    )
+
+    OTHER_TOOLS = (
+        "GIMP",
     )
 
 
