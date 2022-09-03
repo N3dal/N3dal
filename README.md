@@ -24,13 +24,13 @@ passionate about Computer-Science and Computers in General (Hardware) and (Softw
 class About(Nedal):
 
    TOOLS = {
-        "ScriptingLanguages": ("Python", "Bash-Script", "matlab"),
-        "ProgrammingLanguages": ("C", "C++"),
-        "MarkupLanguages": ("Html", "markdown"),
-        "OtherLanguages": ("json", ),
-        "Editors": ("VsCode", "Sublime"),
-        "Platform": ("GNU/LINUX",),
-        "OtherTools": ("GIMP", )
+        "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
+        "ProgrammingLanguages" : ("C", "C++"),
+        "MarkupLanguages" : ("Html", "markdown"),
+        "OtherLanguages" : ("json", ),
+        "Editors" : ("VsCode", "Sublime"),
+        "Platform" : ("GNU/LINUX",),
+        "OtherTools" : ("GIMP", )
    }
 
 ```
