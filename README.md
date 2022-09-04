@@ -12,6 +12,7 @@ I'm **Nedal Abudllah** Electronic-Communication engineering student from 🇱�
 passionate about Computer-Science and Computers in General (Hardware) and (Software).
 
 - 👀 I’m looking to collaborate on Open-Source Projects.
+- 🐍 I’m looking to collaborate on python projects.
 - 🐧 I like **GNU/Linux**.
 - 😄 Pronouns: He/Him.
 
