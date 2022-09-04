@@ -31,7 +31,7 @@ class About(Nedal):
         "OtherLanguages" : ("json", ),
         "Editors" : ("VsCode", "Sublime"),
         "Platform" : ("GNU/LINUX",),
-        "OtherTools" : ("GIMP", )
+        "OtherTools" : ("GIMP", "Git")
    }
 
 ```
