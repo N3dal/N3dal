@@ -24,6 +24,8 @@ passionate about Computer-Science and Computers in General (Hardware) and (Softw
 ```python
 class About(Nedal):
    """Normal person that love to learn more about Computer-Science and Technologies"""
+   
+   AGE = 22
 
    TOOLS = {
         "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
@@ -44,8 +46,11 @@ class About(Nedal):
       return WORK_DONE
 
    def __len__(self):
-      """Just for fun"""
+      """Fun Fact"""
       return 181 # cm
+
+   def __repr__(self):
+      return f"Nedal Abdullah an {AGE} old student"
 
 ```
 
