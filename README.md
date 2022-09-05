@@ -20,7 +20,7 @@ passionate about Computer-Science and Computers in General (Hardware) and (Softw
 
 
 
-## Tools 
+
 ```python
 class About(Nedal):
    """Normal person that love to learn more about Computer-Science and Technologies"""
