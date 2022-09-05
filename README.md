@@ -43,6 +43,10 @@ class About(Nedal):
 
       return WORK_DONE
 
+   def __len__(self):
+      """Just for fun"""
+      return 181 # cm
+
 ```
 
 ## Where to find me
