@@ -37,6 +37,7 @@ class About(Nedal):
         "OtherTools" : ("GIMP", "Git", "Arduino")
    }
 
+
    def work(self):
       """"""
       while not WORK_DONE:
@@ -45,9 +46,11 @@ class About(Nedal):
 
       return WORK_DONE
 
+
    def __len__(self):
       """Fun Fact"""
       return 181 # cm
+
 
    def __repr__(self):
       return f"Nedal Abdullah an {AGE} old student"
