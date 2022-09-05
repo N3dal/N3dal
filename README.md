@@ -24,7 +24,7 @@ passionate about Computer-Science and Computers in General (Hardware) and (Softw
 ```python
 class About(Nedal):
    """Normal person that love to learn more about Computer-Science and Technologies"""
-   
+
    TOOLS = {
         "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
         "ProgrammingLanguages" : ("C", "C++"),
@@ -34,6 +34,14 @@ class About(Nedal):
         "Platform" : ("GNU/LINUX",),
         "OtherTools" : ("GIMP", "Git", "Arduino")
    }
+
+   def work(self):
+      """"""
+      while not WORK_DONE:
+         # keep work.
+         pass
+
+      return WORK_DONE
 
 ```
 
