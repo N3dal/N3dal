@@ -9,7 +9,7 @@
 </p>
 
 I'm **Nedal Abudllah** Electronic-Communication engineering student from 🇱🇾
-passionate about Computer-Science and Computers in General (Hardware) and (Software).
+and a self-taught developer passionate about Computer-Science and Computers in General (Hardware) and (Software).
 
 - 👀 I’m looking to collaborate on Open-Source Projects.
 - 🐍 I’m looking to collaborate on python projects.
@@ -23,7 +23,7 @@ passionate about Computer-Science and Computers in General (Hardware) and (Softw
 
 ```python
 class About(Nedal):
-   """Normal person that love to learn more about Computer-Science and Technologies"""
+   """self-taught developer that love to learn more about Computer-Science and Technologies"""
    
    AGE = 22
 
@@ -54,7 +54,7 @@ class About(Nedal):
 
    def __repr__(self):
       """"""
-      return f"Nedal Abdullah an {AGE} old student"
+      return f"Nedal Abdullah an {AGE} old self-taught developer and student"
 
 ```
 
