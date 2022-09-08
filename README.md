@@ -38,8 +38,7 @@ class About(N3dal):
    }
 
    def use(self, tool):
-      """"""
-      # use one of my tools or use bunch of them.
+      """use one of my tools or use bunch of them."""
       return TOOLS[tool]
 
    def work(self):
