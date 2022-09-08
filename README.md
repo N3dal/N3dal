@@ -22,7 +22,7 @@ and a self-taught developer passionate about Computer-Science and Computers in G
 
 
 ```python
-class About(Nedal):
+class About(N3dal):
    """self-taught developer that love to learn more about Computer-Science and Technologies"""
    
    AGE = 22
@@ -37,12 +37,16 @@ class About(Nedal):
         "OtherTools" : ("GIMP", "Git", "Arduino")
    }
 
+   def use(self, tool):
+      """"""
+      # use one of my tools or use bunch of them.
+      return TOOLS[tool]
 
    def work(self):
       """"""
       while not WORK_DONE:
          # keep work.
-         pass
+         self.use(tool)
 
       return WORK_DONE
 
