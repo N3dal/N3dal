@@ -1,6 +1,6 @@
 <!-- TODO: Add class that explains all the tools you use -->
 
-<!-- <a target="blank"><img align="left" src="./patric1.gif" /></a> -->
+<!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
 ### Hi there 👋
 
