@@ -9,7 +9,7 @@
 </p>
 
 I'm **Nedal Abudllah** an 22 y.o. Electronic-Communication engineering student from 🇱🇾(Libya),
-and a self-taught developer passionate about Computer-Science and Computers in General (Hardware) and (Software).
+and a self-taught developer passionate about Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on Open-Source Projects.
 - 🐍 I’m looking to collaborate on python projects.
