@@ -39,7 +39,7 @@ class About(N3dal):
           "Editors" : ("VsCode", "Sublime"),
           "Platform" : ("GNU/LINUX",),
           "OtherTools" : ("GIMP", "Git", "Arduino")
-      }
+         }
 
 
    def use(self, tool):
