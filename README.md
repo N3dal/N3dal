@@ -25,22 +25,26 @@ and a self-taught developer passionate about Computer-Science and Technologies.
 class About(N3dal):
    """self-taught developer that love to learn more about Computer-Science and Technologies"""
    
-   AGE = 22
+   def __init__(self):
+     
+      self.name = "Nedal Abdullah"
+      self.age = 22
+      self.role = "Student"
 
-   TOOLS = {
-        "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
-        "ProgrammingLanguages" : ("C", "C++"),
-        "MarkupLanguages" : ("Html", "markdown"),
-        "OtherLanguages" : ("json", ),
-        "Editors" : ("VsCode", "Sublime"),
-        "Platform" : ("GNU/LINUX",),
-        "OtherTools" : ("GIMP", "Git", "Arduino")
-   }
+      self.TOOLS = {
+          "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
+          "ProgrammingLanguages" : ("C", "C++"),
+          "MarkupLanguages" : ("Html", "markdown"),
+          "OtherLanguages" : ("json", ),
+          "Editors" : ("VsCode", "Sublime"),
+          "Platform" : ("GNU/LINUX",),
+          "OtherTools" : ("GIMP", "Git", "Arduino")
+      }
 
 
    def use(self, tool):
       """use one of my tools or use bunch of them."""
-      return TOOLS[tool]
+      return self.TOOLS[tool]
 
 
    def work(self):
@@ -59,7 +63,7 @@ class About(N3dal):
 
    def __repr__(self):
       """"""
-      return f"Nedal Abdullah an {AGE} old self-taught developer and student"
+      return f"{self.name} an {self.age} y.o self-taught developer and student"
 
 ```
 
