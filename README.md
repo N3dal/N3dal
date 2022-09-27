@@ -18,7 +18,7 @@ and a self-taught developer passionate about Computer-Science and Technologies.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FN3dal&labelColor=%2337d67a&countColor=%23263759)
 
-
+<!-- to print thick horizontal line -->
 ---
 
 ```python
@@ -66,7 +66,14 @@ class About(N3dal):
       return f"{self.name} an {self.age} y.o self-taught developer and {self.role}"
 
 ```
+<!-- to print thick horizontal line -->
+---
 
+[![N3dal GitHub stats](https://github-readme-stats.vercel.app/api?username=n3dal)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- to draw horizontal line -->
+#
 ## Where to find me
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/N3dal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nedalxzo@gmail.com)
