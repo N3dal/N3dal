@@ -19,7 +19,7 @@ and a self-taught developer passionate about Computer-Science and Technologies.
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FN3dal&labelColor=%2337d67a&countColor=%23263759)
 
 
-
+---
 
 ```python
 class About(N3dal):
