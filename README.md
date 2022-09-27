@@ -63,7 +63,7 @@ class About(N3dal):
 
    def __repr__(self):
       """"""
-      return f"{self.name} an {self.age} y.o self-taught developer and student"
+      return f"{self.name} an {self.age} y.o self-taught developer and {self.role}"
 
 ```
 
