@@ -74,7 +74,7 @@ class About(N3dal):
 
 [![N3dal GitHub stats](https://github-readme-stats.vercel.app/api?username=n3dal&show_icnos=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/profile_pic.gif" /></a>
+<a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/n3dal.gif" /></a>
 
 
 <!-- to draw horizontal line -->
