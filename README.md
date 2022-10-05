@@ -11,8 +11,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-
-I'm  ![profile_pic_gif](./assets/n3dal.gif) **`Abudllah`** an 22 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
+I'm **`Nedal Abudllah`** an 22 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
 and a self-taught developer passionate about Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
@@ -74,6 +73,8 @@ class About(N3dal):
 ---
 
 [![N3dal GitHub stats](https://github-readme-stats.vercel.app/api?username=n3dal&show_icnos=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/profile_pic.gif" /></a>
 
 
 <!-- to draw horizontal line -->
