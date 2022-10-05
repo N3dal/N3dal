@@ -10,9 +10,9 @@
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
-![profile_pic_gif](./assets/n3dal.gif)
 
-I'm **`Nedal Abudllah`** an 22 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
+
+I'm  ![profile_pic_gif](./assets/n3dal.gif) **`Abudllah`** an 22 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
 and a self-taught developer passionate about Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
