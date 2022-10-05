@@ -84,6 +84,6 @@ class About(N3dal):
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nedalxzo@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3dal_Abdullah)
 
-<a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/n3dal.gif" /></a>
-
+<center><a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/n3dal.gif" /></a>
+</center>
 
