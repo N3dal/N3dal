@@ -74,7 +74,7 @@ class About(N3dal):
 
 [![N3dal GitHub stats](https://github-readme-stats.vercel.app/api?username=n3dal&show_icnos=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/n3dal.gif" /></a>
+
 
 
 <!-- to draw horizontal line -->
@@ -84,5 +84,6 @@ class About(N3dal):
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nedalxzo@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3dal_Abdullah)
 
+<a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/n3dal.gif" /></a>
 
 
