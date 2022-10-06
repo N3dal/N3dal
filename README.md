@@ -86,7 +86,7 @@ class About(N3dal):
 
 #
 <p align="center">
-<a href="https://n3dal.github.io/" target="blank"><img src="./assets/n3dal.gif" /></a>
+<a href="https://n3dal.github.io/" target="blank"><img src="./assets/n3dal_02.gif" /></a>
 </p>
 
 # 
