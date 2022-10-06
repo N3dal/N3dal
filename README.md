@@ -85,5 +85,5 @@ class About(N3dal):
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3dal_Abdullah)
 
 <p align="center">
-<a href="https://n3dal.github.io/" target="blank"><img align="left" src="./assets/n3dal.gif" /></a>
+<a href="https://n3dal.github.io/" target="blank"><img align="center" src="./assets/n3dal.gif" /></a>
 </p>
