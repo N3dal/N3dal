@@ -25,7 +25,7 @@ and a self-taught developer passionate about Computer-Science and Technologies.
 ---
 
 ```python
-class About(N3dal):
+class N3dal(Abdullah):
    """self-taught developer that love to learn more about Computer-Science and Technologies"""
    
    def __init__(self):
