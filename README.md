@@ -20,7 +20,8 @@ and a self-taught developer passionate about Computer-Science and Technologies.
 - 😄 Pronouns: He/Him.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FN3dal&labelColor=%2337d67a&countColor=%23263759)
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8&style=flat)
+
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
 
 <!-- to print thick horizontal line -->
 ---
