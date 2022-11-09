@@ -88,7 +88,7 @@ class N3dal(Abdullah):
 
 #
 <p align="center">
-<a href="https://n3dal.github.io/" target="blank"><img src="./assets/n3dal_02.gif" /></a>
+<a href="https://n3dal.github.io/" target="blank"><img src="https://github.com/N3dal/N3dal/blob/main/assets/n3dal_02.gif" /></a>
 </p>
 
 # 
