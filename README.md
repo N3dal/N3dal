@@ -46,7 +46,7 @@ class N3dal(Abdullah):
           "OtherTools" : ("GIMP", "Git", "Arduino")
          }
 
-      self.INTEREST = [
+      self.INTERESTS = [
          "Computer Sciences",
          "Electrical & Electronic Engineering",
          "Computer Networks and Networking",
