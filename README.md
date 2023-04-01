@@ -36,7 +36,7 @@ class N3dal(Abdullah):
       self.age = 23
       self.role = "Student"
 
-      self.tools = {
+      self.TOOLS = {
           "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
           "ProgrammingLanguages" : ("C", "C++"),
           "MarkupLanguages" : ("Html", "markdown"),
@@ -46,12 +46,12 @@ class N3dal(Abdullah):
           "OtherTools" : ("GIMP", "Git", "Arduino")
          }
 
-      self.interest = [
-         "Electrical & Electronic Engineering",
+      self.INTEREST = [
          "Computer Sciences",
+         "Electrical & Electronic Engineering",
          "Computer Networks and Networking",
          "Electromagnetic & Antenna Design"
-      ]
+         ]
 
    def use(self, tool):
       """use one of my tools or use bunch of them."""
