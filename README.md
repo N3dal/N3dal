@@ -15,8 +15,11 @@ I'm **`Nedal Abudllah`** an 23 y.o. Electronic-Communication engineering student
 and a self-taught developer passionate about Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 🐍 I’m looking to collaborate on **python** projects.
+- 🐍 I’m looking to collaborate on **Python** projects.
+- 👨‍💻 All of my projects are available at [https://github.com/N3dal](https://github.com/N3dal)
+- 💬 Ask me about **Electromagnetic** or **Python**.
 - 🐧 I like **GNU/Linux**.
+- 📫 How to reach me **nedalxzo@gmail.com**
 - 😄 Pronouns: He/Him.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
@@ -89,7 +92,7 @@ class N3dal(Abdullah):
 #
 ## Where to find me
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/N3dal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nedalxzo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3dal.abdullah@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3dal_Abdullah)
 
 #
