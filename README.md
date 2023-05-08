@@ -12,7 +12,7 @@
 
 
 I'm **`Nedal Abudllah`** an 23 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
-and a self-taught developer passionate about Computer-Science and Technologies.
+and a self-taught developer with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
 - 🐍 I’m looking to collaborate on **Python** projects.
@@ -104,3 +104,5 @@ class N3dal(Abdullah):
 </p>
 
 # 
+
+Thank you for taking the time to read my profile 🤣🤣
