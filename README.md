@@ -82,7 +82,7 @@ class N3dal(Abdullah):
 ```
 <!-- to print thick horizontal line -->
 ---
-**Top Commits Rank (Libya):
+**Top Commits Rank (Libya):**
 
 [![committers.top badge](https://user-badge.committers.top/libya/N3dal.svg)](https://user-badge.committers.top/libya/N3dal)
 
