@@ -11,7 +11,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`Nedal Abudllah`** an 23 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
+I'm **`Nedal Abudllah`** an 24 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
