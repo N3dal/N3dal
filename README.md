@@ -21,6 +21,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 - 🐧 I like **GNU/Linux**.
 - 📫 How to reach me **nedalxzo@gmail.com**
 - 😄 Pronouns: He/Him.
+- Fun Fact: 54686520536b7920697320426c7565
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
 
