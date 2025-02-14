@@ -11,7 +11,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`Nedal Abudllah`** an 24 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
+I'm **`Nedal Abudllah`** an 25 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
@@ -37,7 +37,7 @@ class N3dal(Abdullah):
    def __init__(self):
      
       self.name = "Nedal Abdullah"
-      self.age = 23
+      self.age = 25
       self.role = "Student"
 
       self.TOOLS = {
