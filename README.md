@@ -92,6 +92,8 @@ class N3dal(Abdullah):
 [![N3dal GitHub stats](https://github-readme-stats.vercel.app/api?username=n3dal&show_icnos=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+[![Check out N3dal's profile on stardev.io](https://stardev.io/developers/N3dal/badge/languages/country.svg)](https://stardev.io/developers/N3dal)
+---
 
 **CodeWars Stats**: 
 
